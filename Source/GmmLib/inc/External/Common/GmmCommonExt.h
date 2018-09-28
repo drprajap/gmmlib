@@ -60,7 +60,7 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 
 #define INCLUDE_CpuSwizzleBlt_c_AS_HEADER
-#include "../../../Utility/CpuSwizzleBlt/CpuSwizzleBlt.c"
+#include "Utility/CpuSwizzleBlt/CpuSwizzleBlt.c"
 extern const SWIZZLE_DESCRIPTOR INTEL_64KB_UNDEFINED_8bpp;
 extern const SWIZZLE_DESCRIPTOR INTEL_64KB_UNDEFINED_16_32bpp;
 extern const SWIZZLE_DESCRIPTOR INTEL_64KB_UNDEFINED_64_128bpp;
